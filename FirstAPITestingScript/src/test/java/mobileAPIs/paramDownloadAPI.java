@@ -4,7 +4,7 @@ import io.restassured.response.Response;
 import static io.restassured.RestAssured.*;
 
 public class paramDownloadAPI {
-
+//param download
     public static void main(String[] args) {
 
         RestAssured.baseURI = "https://tms-dev.valorpaytech.com:4430";

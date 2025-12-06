@@ -6,7 +6,7 @@ import io.restassured.response.Response;
 import static io.restassured.RestAssured.*;
 
 public class BinValueDownloadAPI {
-
+//download the param
     public static void main(String[] args) {
 
         RestAssured.baseURI = "https://tms-dev.valorpaytech.com:4430";
